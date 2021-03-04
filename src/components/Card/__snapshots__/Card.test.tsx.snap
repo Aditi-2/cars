@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Test Should match the snapshot 1`] = `
+<div
+  className="css-1w6rvfd"
+>
+  <p
+    className="card-details"
+  >
+    Manufacturer: 
+    <span>
+      A
+    </span>
+  </p>
+  <p
+    className="card-details"
+  >
+    Model: 
+    <span>
+      B
+    </span>
+  </p>
+  <p
+    className="card-details"
+  >
+    Vehicle: 
+    <span>
+      C
+    </span>
+  </p>
+</div>
+`;
